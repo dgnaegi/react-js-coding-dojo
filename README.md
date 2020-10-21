@@ -1,2 +1,3 @@
-# react-js-coding-dojo
-small coding dojo to share react basics
+## Run App (localhost:300)
+1. npm install
+2. yarn dev
