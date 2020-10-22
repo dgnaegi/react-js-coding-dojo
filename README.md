@@ -1,3 +1,3 @@
-## Run App (localhost:300)
-1. npm install
+## Run App (localhost:3000)
+1. yarn
 2. yarn dev
